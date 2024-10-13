@@ -1,0 +1,113 @@
+.App {
+  text-align: center;
+}
+
+.ant-tabs-card >.ant-tabs-nav .ant-tabs-tab-active{
+  background: #320b59;
+}
+
+.ant-tabs .ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn{
+  color: white;
+}
+
+.ant-tabs-card >.ant-tabs-nav .ant-tabs-tab{
+  border: 1px solid #320b59;
+}
+
+.ant-tabs .ant-tabs-tabpane{
+  outline: #f5f0f9 solid 1px;
+  padding: 2%;
+}
+
+.ant-tabs .ant-tabs-tab{
+  color: #606060;
+}
+
+.ant-tabs .ant-tabs-tab:hover{
+  color: #320b59;
+}
+
+.ant-btn-variant-outlined{
+  color: #606060;
+  border-color: #606060;
+}
+
+.ant-btn-variant-outlined:hover{
+  color: #320b59;
+  border-color: #320b59;
+}
+
+.ant-table-tbody-virtual-scrollbar-thumb{
+  background: rgba(50, 11, 89, 0.75) !important;
+}
+
+.expansion_option {
+  border: #320b59 solid 1px;
+  width: 230px;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 500;
+  background: #320b59;
+  color: #f5f0f9;
+}
+
+.close{
+  border-radius: 5px;
+}
+
+.head {
+  border-radius: 5px 5px 0 0;
+}
+
+.expansion_body {
+  border: #320b59 solid 1px;
+  color: #320b59;
+  padding: 5px;
+  border-radius: 0 0 5px 5px;
+  width: 230px
+}
+
+span > .ant-btn.ant-btn-icon-only{
+  width: 20px;
+}
+
+span > .ant-btn{
+  height: 20px;
+}
+
+span > .ant-btn-variant-text{
+  color: #DE3163;
+}
+
+.workflow > .ant-btn-variant-text{
+  color: #320b59;
+  font-weight: 500;
+}
+
+.sider-card > .ant-card-head{
+  color: rgb(64, 119, 208);
+}
+
+.ant-divider-horizontal{
+  margin: 4px 0;
+}
+
+.label{
+  border: #320b59 solid 1px;
+  padding: 4px;
+  background: rgba(179, 145, 212, 0.25);
+  color: #320b59;
+  text-transform: uppercase;
+  border-radius: 4px;
+  font-weight: 700;
+  font-size: 10px;
+}
+
+.left-text{
+  color: rgb(64, 119, 208);
+  float: right;
+}
+
+.ant-tabs .ant-tabs-tabpane{
+  padding: 1%;
+}
